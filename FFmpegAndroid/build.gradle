@@ -31,4 +31,4 @@ dependencies {
     androidTestCompile 'com.squareup.assertj:assertj-android:1.0.0'
 }
 
-apply from: 'https://raw.github.com/chrisbanes/gradle-mvn-push/master/gradle-mvn-push.gradle'
+apply from: 'http://gitlab.duethealth.com/android-projects/dh-gradle-maven-push/raw/master/dh_maven_push.gradle'
